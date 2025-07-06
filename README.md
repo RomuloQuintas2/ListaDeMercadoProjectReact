@@ -1,2 +1,2 @@
-Projeto Lista de Mercado
+Projeto Lista de Mercado<br<
 Utiliza as seguintes tecnologias: React NodeJS e Tailwind
